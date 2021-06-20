@@ -1,37 +1,81 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/martino-dot/martino-dot.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/martino-dot/martino-dot.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# GOS
+## Mods
+#### Newest update: 20/06/2021
+##### What doesn't work?
+* Optifine (along with OptiFabric)
+* Image2Map (used for putting funny pictures in game)
+### Things to downlaod
+* [Fabric Loader](https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.7.4/fabric-installer-0.7.4.jar)
+* [Mods](https://github.com/martino-dot/martino-dot.github.io/raw/main/mods.zip)
+### Things to note
+* GOS currently runs 1.17 Fabric
+* GOS is a private modded server
+* Some mods are still not available for 1.17 Fabric and will not work
+* Forge mods WILL NOT WORK with Fabric
+* Other versions of the same mods may not work (sometimes even crashes your game!)
+### Setting up mods
+#### Installing fabric
+1. Download Fabric loader and run the jar. From there make sure that `Minecraft Version` is on 1.17, and click on `Install`.
+2. Once the Fabric laoder shows that it has been successfully installed you can close the Fabric installer.
+3. Run Fabric 1.17 (using the minecraft launcher) before proceeding to `installing mods`.
+#### Installing mods
+1. Go to your mods folder (On Windows: Press 'Windows Key' + 'R', type in '%appdata%' and press run, click on .minecraft, then go to mods.
+2. Download the mods and extract the zip.
+3. Move all the mods you just extracted from the zip into the mods folder.
+4. (Info) If you have any forge mods in your mods folder then delete them or put them in a different folder.
+### Getting Started
+1. Run Minecraft with Fabric 1.17 (VERY IMPORTANT)
+2. Make sure to set new keybinds by running Minecraft and going to options, and then controls
+3. Add the server using the ip that you have been provided with and join it
+4. You will see the screen (shown below) which you'll use to select your origin (if you don't remember check your Dicsord role or the #gos-origin-description channel)
+![Origins menu](https://raw.githubusercontent.com/martino-dot/martino-dot.github.io/main/Screenshot_2021-05-16_180222.png) 
+5. If your origin has a primary ability you press `G` to activiate it. Some origins have second ability which you'll have to set a keybind for (`H` is recommended)
+![Keybinds](https://raw.githubusercontent.com/martino-dot/martino-dot.github.io/main/Screenshot_2021-05-16_180823.png)
+6. After you choose an oriign, you'll be greated with a `Choose your Class` screen (as shown below). This is where you choose a class (classes aren't origins they make you better at a profession, palyers can choose the same class, but not the same class). Choose the one that seems most interesting to you.
+### Setting up proximity chat
+1. Logon to the server
+2. Press `V` (default keybind) to open up the voice chat menu (as shown below)
+![Voice chat settings](https://raw.githubusercontent.com/martino-dot/martino-dot.github.io/main/unknown.png)
+3. Here you can mute your mic, turn voice chat off, turn off icons (recommended, click on the eye icon), and settings and groups.
+4. Click on `Settings`
+5. Click on the `Activation type` button until it shows `Activation type: Voice`
+6. Set `Voice activation threshold` to something like `-70 dB` (You can change this depending on your environment)
+7. (Optional) If your default mic is different than the one you want to use with voice chat then click on `Select Microphone`. From there select which mic you want (Make sure to click `Select` once you've changed this, otherwise it won't work)
+### Additional information
+* You can install the datapacks that we use on the server on your own world. [Mediafire link](https://www.mediafire.com/folder/q8o1qptgh6mgs/Gog_Origins_DataPacks)
+  * We also use the Artic Fox datapack which you have to unzip. [Datapack](https://www.mediafire.com/file/wkzai9z6fzp8te2/Arctic_Fox.zip/file)
+* These are all the mods we use:
+  * Origins (1.0.0)
+  * Extraorigins (1.17-1)
+  * Fabric API (0.35.2+1.17)
+  * Origins classes (1.2.1)
+  * Pehkui (2.2.1)
+  * Simple voice chat (1.1.2)
+* Simple voice chat is not required, but is recommended for better immersion and more funnies.
+* If any information here is wrong, or you have a problem playing GOS, @moderator in the Gos Origins SMP Discord Server.
+## Rules
+1. Don't kill the enderdragon (it kills most server)
+2. Don't enter the end (you can still loot strongholds if you find one, don't activate end portals)
+3. Don't be an asshole (don't grief if you know it's going to make someone else feel bad, pranks are allowed because funni)
+4. Don't pick an origin that someone else picked (This is so every is different, if you're not satisfied then too bad!)
+5. Das it, I think
+## GOS Members
+* BlackstarX
+* Just Dragonsoalce
+* MartinIAm
+* User of Someone's Onlyfans
+* Hype_Fantasy2004 (Hasn't joined MC server)
+* LouiMezDez
+* Ryamino
+* Butterd_sad
+* Greatmario64
+* Eva_Bosss (Hasn't joined MC server)
+* rustdevil (not active member)
+* ari
+* Gipperty (I don't know)
+* Hornblast (Bedrock member)
+* Linguine
+* Mortoland (Bedrock member)
+* Nicholas (Hasn't joined MC Server)
+* thedemimorgan (pitbul)
+* tim.
