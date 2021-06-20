@@ -8,7 +8,7 @@
    6. [Additional Information](#additional-information)
 2. [Rules](#rules)
 3. [GOS Members](#gos-members)
-## Mod Setup
+# Mod Setup
 #### Newest update: 20/06/2021
 ##### What doesn't work?
 * Optifine (along with OptiFabric)
@@ -62,13 +62,13 @@
   * Simple voice chat (1.1.2)
 * Simple voice chat is not required, but is recommended for better immersion and more funnies.
 * If any information here is wrong, or you have a problem playing GOS, @moderator in the Gos Origins SMP Discord Server.
-## Rules
+# Rules
 1. Don't kill the enderdragon (it kills most server)
 2. Don't enter the end (you can still loot strongholds if you find one, don't activate end portals)
 3. Don't be an asshole (don't grief if you know it's going to make someone else feel bad, pranks are allowed because funni)
 4. Don't pick an origin that someone else picked (This is so every is different, if you're not satisfied then too bad!)
 5. Das it, I think
-## GOS Members
+# GOS Members
 * BlackstarX
 * Just Dragonsoalce
 * MartinIAm
