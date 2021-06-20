@@ -1,10 +1,19 @@
-# GOS
-## Mods
+# Table of Contents
+1. [Mod setup](#mod-setup)
+   1. [Things to download](#things-to-download)
+   2. [Things to note](#things-to-note)
+   3. [Setting up mods](#setting-up-mods)
+   4. [Getting Started](#getting-started)
+   5. [Setting up proximity chat](#setting-up-proximity-chat)
+   6. [Additional Information](#additional-information)
+2. [Rules](#rules)
+3. [GOS Members](#gos-members)
+## Mod Setup
 #### Newest update: 20/06/2021
 ##### What doesn't work?
 * Optifine (along with OptiFabric)
 * Image2Map (used for putting funny pictures in game)
-### Things to downlaod
+### Things to download
 * [Fabric Loader](https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.7.4/fabric-installer-0.7.4.jar)
 * [Mods](https://github.com/martino-dot/martino-dot.github.io/raw/main/mods.zip)
 ### Things to note
