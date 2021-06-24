@@ -76,7 +76,7 @@
 * Hype_Fantasy2004 (Hasn't joined MC server)
 * LouiMezDez
 * Ryamino
-* Cheese
+* Butterd_Cheese
 * Greatmario64
 * Eva_Bosss (Hasn't joined MC server)
 * rustdevil (not active member)
