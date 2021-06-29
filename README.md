@@ -60,6 +60,7 @@
   * Origins classes (1.2.1)
   * Pehkui (2.2.1)
   * Simple voice chat (1.1.2)
+  * FabricSit (1.5.1)
 * Simple voice chat is not required, but is recommended for better immersion and more funnies.
 * If any information here is wrong, or you have a problem playing GOS, @moderator in the Gos Origins SMP Discord Server.
 # Rules
@@ -73,12 +74,12 @@
 * Just Dragonsoalce
 * MartinIAm
 * User of Someone's Onlyfans
-* Hype_Fantasy2004 (Hasn't joined MC server)
+* Hype_Fantasy2004
 * LouiMezDez
 * Ryamino
 * Butterd_Cheese
 * Greatmario64
-* Eva_Bosss (Hasn't joined MC server)
+* Eva_Bosss
 * rustdevil (not active member)
 * ari
 * Gipperty (I don't know)
