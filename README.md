@@ -12,7 +12,6 @@
 #### Newest update: 20/06/2021
 ##### What doesn't work?
 * Optifine (along with OptiFabric)
-* Image2Map (used for putting funny pictures in game)
 ### Things to download
 * [Fabric Loader](https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.7.4/fabric-installer-0.7.4.jar)
 * [Mods](https://github.com/martino-dot/martino-dot.github.io/raw/main/mods.zip)
@@ -61,6 +60,7 @@
   * Pehkui (2.2.1)
   * Simple voice chat (1.1.2)
   * FabricSit (1.5.1)
+  * Image2Map (Custom build)
 * Simple voice chat is not required, but is recommended for better immersion and more funnies.
 * If any information here is wrong, or you have a problem playing GOS, @moderator in the Gos Origins SMP Discord Server.
 # Rules
