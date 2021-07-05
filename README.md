@@ -51,7 +51,8 @@
 * (Optional) If your default mic is different than the one you want to use with voice chat then click on `Select Microphone`. From there select which mic you want (Make sure to click `Select` once you've changed this, otherwise it won't work)
 ### Additional information
 * You can install the datapacks that we use on the server on your own world. [Mediafire link](https://www.mediafire.com/folder/q8o1qptgh6mgs/Gog_Origins_DataPacks)
-  * We also use the Artic Fox datapack which you have to unzip. [Datapack](https://www.mediafire.com/file/wkzai9z6fzp8te2/Arctic_Fox.zip/file)
+  * We use the Artic Fox datapack which you have to unzip. [Datapack](https://www.mediafire.com/file/wkzai9z6fzp8te2/Arctic_Fox.zip/file)
+  * Starborne, witherhearted, axolotl, and bumblebee origins are currently not being used from the mediafire link. Instead, [use this download link](https://cdn.discordapp.com/attachments/763576666705625108/861595236790566963/star_bee_axolotl_wither.zip) to get the four listed datapacks.
 * These are all the mods we use:
   * Origins (1.0.0)
   * Extraorigins (1.17-1)
