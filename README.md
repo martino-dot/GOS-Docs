@@ -9,9 +9,9 @@
 2. [Rules](#rules)
 3. [GOS Members](#gos-members)
 # Mod Setup
-#### Newest update: 20/06/2021
+#### Newest mods update: 20/06/2021
 ##### What doesn't work?
-* Optifine (along with OptiFabric)
+* Optifine Shaders
 ### Things to download
 * [Fabric Loader](https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.7.4/fabric-installer-0.7.4.jar)
 * [Mods](https://github.com/martino-dot/martino-dot.github.io/raw/main/mods.zip)
