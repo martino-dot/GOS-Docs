@@ -1,17 +1,21 @@
 # Table of Contents
-1. [Mod setup](#mod-setup)
+1. [Low FPS On GOS](#low-fps-on-gos)
+2. [Mod setup](#mod-setup)
    1. [Things to download](#things-to-download)
    2. [Things to note](#things-to-note)
    3. [Setting up mods](#setting-up-mods)
    4. [Getting Started](#getting-started)
    5. [Setting up proximity chat](#setting-up-proximity-chat)
    6. [Additional Information](#additional-information)
-2. [Rules](#rules)
-3. [GOS Members](#gos-members)
+3. [Rules](#rules)
+4. [GOS Members](#gos-members)
+# Low FPS on GOS
+You may get lower FPS on GOS than on other servers using similar mods. This is due to the high number of entities around spawn. These entities consist of mainly item frames, but some of there are also things like cows or sheeps. There are a couple ways you can improve your FPS (we've done as much as we can on the server side):
+* Install performance mods (such as entityculling and optifine)
+* Live away from spawn (At least 500 blocks)
+Please remember that these methods only improve your FPS at the location that YOU are at. You can live 25k blocks away from spawn, but when you come back to spawn your FPS may drop.
 # Mod Setup
 #### Newest mods update: 20/06/2021
-##### What doesn't work?
-* Optifine Shaders
 ### Things to download
 * [Fabric Loader](https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.7.4/fabric-installer-0.7.4.jar)
 * [Mods](https://github.com/martino-dot/martino-dot.github.io/raw/main/mods.zip)
