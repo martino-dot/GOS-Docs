@@ -1,3 +1,6 @@
+# GOS IS DONE
+After consideration by MartinIAm, GOS has been shutdown. There were many issues with GOS that I (martiniam) unfortunately couldn't really fix. Hopefully I can in the future. Thanks for playing everyone!
+
 # Table of Contents
 1. [Low FPS On GOS](#low-fps-on-gos)
 2. [Mod setup](#mod-setup)
@@ -87,10 +90,12 @@ Please remember that these methods only improve your FPS at the location that YO
 * Eva_Bosss
 * rustdevil (not active member)
 * ari
-* Gipperty (I don't know)
+* Gipperty (inactive)
 * Hornblast (Bedrock member)
 * Linguine
 * Mortoland (Bedrock member)
 * Nicholas (Hasn't joined MC Server)
 * thedemimorgan (pitbul)
 * tim.
+
+Again, thank you to everyone who played!
